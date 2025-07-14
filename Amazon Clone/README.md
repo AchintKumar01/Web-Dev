@@ -1,0 +1,1 @@
+<p>This is my first Web Develop project using HTML and CSS. This project is the clone of Amazon home page.</p>
