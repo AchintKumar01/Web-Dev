@@ -1,1 +1,2 @@
 # Web-Dev
+<p>I'm currently working on improving my web development skills by building real-world projects. This repository will serve as a collection of my learning journey, and I'll be regularly pushing new projects and updates here. Stay tuned for more!</p>
